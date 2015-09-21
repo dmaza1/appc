@@ -30,5 +30,7 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="/appa"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/appb"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
